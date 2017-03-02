@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "0.9.1",
+  "name": "e8e-react-scripts",
+  "version": "0.1.2",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
@@ -61,6 +61,7 @@
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
     "webpack": "2.2.1",
+    "webpack-config": "^7.0.0",
     "webpack-dev-server": "2.4.1",
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "2.0.2"
